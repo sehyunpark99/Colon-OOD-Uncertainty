@@ -7,3 +7,6 @@
 2) Quantify the uncertainty of the polyp on whether it is hyperplastic (HP) or adenoma (AD)
 3) Yield confidence score based on uncertainty by data (aleatoric uncertainty)
 
+
+## Citation
+Code heavily from Deep Deterministic Uncertainty (DDU) [[Link](https://github.com/omegafragger/DDU)]
